@@ -7,65 +7,65 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 28 Oct 2018 10:00:00 AWST</pubDate>
+      <pubDate>Sun, 28 Oct 2018 10:30:00 AWST</pubDate>
 
-      <lastBuildDate>Sun, 28 Oct 2018 10:00:00 AWST</lastBuildDate>
+      <lastBuildDate>Sun, 28 Oct 2018 10:30:00 AWST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>30.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 28/10/18 10:00:00</title>
+         <title>Weather Conditions at 28/10/18 10:30:00</title>
          <link></link>
          <description>
-           Outside temperature: 16.9&#176;C; 
-           Barometer: 1019.6 hPa; 
-           Wind: 10 km/h from 175&#176;; 
+           Outside temperature: 17.2&#176;C; 
+           Barometer: 1019.3 hPa; 
+           Wind: 10 km/h from 174&#176;; 
            Rain rate: 0.0 mm/hr; 
-           Inside temperature: 21.4&#176;C
+           Inside temperature: 21.6&#176;C
          </description>
-         <pubDate>Sun, 28 Oct 2018 10:00:00 AWST</pubDate>
+         <pubDate>Sun, 28 Oct 2018 10:30:00 AWST</pubDate>
 	     <geo:lat>-33.7715848</geo:lat>
     	 <geo:long>122.79075622</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                28/10/18 10:00:00<br/>
-             Outside Temperature: 16.9&#176;C<br/>
-             Inside Temperature:  21.4&#176;C<br/>
-             Wind Chill:          16.9&#176;C<br/>
-             Heat Index:          16.9&#176;C<br/>
-             Dewpoint:            13.8&#176;C<br/>
-             Humidity:            82%<br/>
-             Barometer:           1019.6 hPa<br/>
-             Wind:                10 km/h from 175&#176;<br/>
+             Time:                28/10/18 10:30:00<br/>
+             Outside Temperature: 17.2&#176;C<br/>
+             Inside Temperature:  21.6&#176;C<br/>
+             Wind Chill:          17.2&#176;C<br/>
+             Heat Index:          17.2&#176;C<br/>
+             Dewpoint:            13.7&#176;C<br/>
+             Humidity:            80%<br/>
+             Barometer:           1019.3 hPa<br/>
+             Wind:                10 km/h from 174&#176;<br/>
              Rain Rate:           0.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 28/10/18 10:00:00</title>
+         <title>Daily Weather Summary as of 28/10/18 10:30:00</title>
          <link></link>
          <description>
 	        Min outside temperature: 14.5&#176;C at 02:30:00;
-         	Max outside temperature: 17.0&#176;C at 09:59:31;
+         	Max outside temperature: 17.3&#176;C at 10:05:48;
 	        Min inside temperature:  20.5&#176;C at 06:13:55;
-	        Max inside temperature:  21.5&#176;C at 09:44:26;
+	        Max inside temperature:  21.7&#176;C at 10:25:00;
 	        Min barometer:           1018.1 hPa at 01:20:19;
 	        Max barometer:           1019.8 hPa at 06:57:55;
             Max wind :               21 km/h from 180&#176; at 08:41:07;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Sun, 28 Oct 2018 10:00:00 AWST</pubDate>
+         <pubDate>Sun, 28 Oct 2018 10:30:00 AWST</pubDate>
 	     <geo:lat>-33.7715848</geo:lat>
     	 <geo:long>122.79075622</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     28 Oct 2018<br/>
 	         Min Outside Temperature: 14.5&#176;C at 02:30:00<br/>
-	         Max Outside Temperature: 17.0&#176;C at 09:59:31<br/>
+	         Max Outside Temperature: 17.3&#176;C at 10:05:48<br/>
 	         Min Inside Temperature:  20.5&#176;C at 06:13:55<br/>
-	         Max Inside Temperature:  21.5&#176;C at 09:44:26<br/>
+	         Max Inside Temperature:  21.7&#176;C at 10:25:00<br/>
 	         Min Barometer:           1018.1 hPa at 01:20:19<br/>
 	         Max Barometer:           1019.8 hPa at 06:57:55<br/>
              Max Wind :               21 km/h from 180&#176; at 08:41:07<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 28/10/18 10:00:00</title>
+         <title>Monthly Weather Summary as of 28/10/18 10:30:00</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 5.3&#176;C at 23/10/18 02:00:43;
@@ -87,7 +87,7 @@
             Max wind :               43 km/h from 45&#176; at 24/10/18 07:37:15;
             Rain total for month:    1.8 mm
          </description>
-         <pubDate>Sun, 28 Oct 2018 10:00:00 AWST</pubDate>
+         <pubDate>Sun, 28 Oct 2018 10:30:00 AWST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2018<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 28/10/18 10:00:00</title>
+         <title>Yearly Weather Summary as of 28/10/18 10:30:00</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 5.3&#176;C at 23/10/18 02:00:43;
@@ -116,7 +116,7 @@
             Max wind :               43 km/h from 45&#176; at 24/10/18 07:37:15;
             Rain total for year:     1.8 mm
          </description>
-         <pubDate>Sun, 28 Oct 2018 10:00:00 AWST</pubDate>
+         <pubDate>Sun, 28 Oct 2018 10:30:00 AWST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2018<br/>
