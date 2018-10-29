@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<maintag>
+<!--MISC-->
+<misc><misc data="station_location">Howick, WA</misc></misc>
+<!--STATION DATA-->
+<realtime><data realtime="station_date">Mon, 29 Oct 2018</data></realtime>
+<realtime><data realtime="station_time">19:30 AWST</data></realtime>
+<realtime><data realtime="sunrise">04:51:44</data></realtime>
+<realtime><data realtime="sunset">18:13:56<!--sunsetTime--></data></realtime>
+<realtime><data realtime="moonrise">22:57:02<!--moonriseTime--></data></realtime>
+<realtime><data realtime="moonset">08:22:16<!--moonsetTime--></data></realtime>
+<!--TEMPERATURE-->
+<realtime><data realtime="temp">17.3<!--outsideTemp--></data></realtime>
+<realtime><data realtime="high_temp">33.1<!--hiOutsideTemp--></data></realtime>
+<realtime><data realtime="low_temp">13.2<!--lowOutsideTemp--></data></realtime>
+<realtime><data realtime="heatindex">17.3<!--outsideHeatIndex--></data></realtime>
+<realtime><data realtime="high_heatindex">33.1<!--hiHeatindex--></data></realtime>
+<!--HUMIDITY-->
+<realtime><data realtime="hum">90<!--outsideHumidity--></data></realtime>
+<realtime><data realtime="high_hum">99<!--hiHumidity--></data></realtime>
+<realtime><data realtime="low_hum">28<!--lowHumidity--></data></realtime>
+<!--WIND-->
+<realtime><data realtime="winddir" misc="imgwinddir">SW<!--windDirection--></data></realtime>
+<realtime><data realtime="windspeed">3<!--windSpeed--></data></realtime>
+<realtime><data realtime="high_windspeed">30<!--hiWindSpeed--></data></realtime>
+<realtime><data realtime="windchill">17.3<!--windChill--></data></realtime>
+<realtime><data realtime="low_windchill">13.2<!--lowWindchill--></data></realtime>
+<!--DEWPOINT-->
+<realtime><data realtime="dew">15.6<!--outsideDewPt--></data></realtime>
+<realtime><data realtime="high_dew">17.3<!--hiDewpoint--></data></realtime>
+<realtime><data realtime="low_dew">11.0<!--lowDewpoint--></data></realtime>
+<!--BAROMETER-->
+<realtime><data realtime="barometer">1013.0<!--barometer--></data></realtime>
+<realtime><data realtime="changebarometer">2.5<!--hourchangebarom--></data></realtime>
+<realtime><data realtime="high_barometer">1015.5<!--hiBarometer--></data></realtime>
+<realtime><data realtime="low_barometer">1008.5<!--lowBarometer--></data></realtime>
+<!--RAIN-->
+<realtime><data realtime="todaysrain">0.0<!--dailyRain--></data></realtime>
+<realtime><data realtime="rain_rate">0.0<!--rainRate--></data></realtime>
+<realtime><data realtime="high_rain_rate">0.0<!--hiRainRate--></data></realtime>
+<realtime><data realtime="storm_rate">0.0<!--dailyRain--></data></realtime>
+<!--UNITS-->
+<realtime><data units="windunit">Kn<!--windUnit--></data></realtime>
+<realtime><data units="rainunit">mm<!--rainUnit--></data></realtime>
+<realtime><data units="rateunit">mm/hr-<!--rateUnit--></data></realtime>
+<realtime><data units="barunit">mb<!--barUnit--></data></realtime>
+<realtime><data units="tempunit">C<!--tempUnit--></data></realtime>
+<realtime><data units="humunit">%<!--humUnit--></data></realtime>
+</maintag>
+
+
