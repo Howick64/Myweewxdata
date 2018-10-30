@@ -7,75 +7,75 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 31 Oct 2018 01:30:00 AWST</pubDate>
+      <pubDate>Wed, 31 Oct 2018 02:00:00 AWST</pubDate>
 
-      <lastBuildDate>Wed, 31 Oct 2018 01:30:00 AWST</lastBuildDate>
+      <lastBuildDate>Wed, 31 Oct 2018 02:00:00 AWST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>30.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 31/10/18 01:30:00</title>
+         <title>Weather Conditions at 31/10/18 02:00:00</title>
          <link></link>
          <description>
-           Outside temperature: 13.9&#176;C; 
-           Barometer: 1013.8 hPa; 
-           Wind: 11 km/h from 158&#176;; 
+           Outside temperature: 13.8&#176;C; 
+           Barometer: 1013.0 hPa; 
+           Wind: 14 km/h from 170&#176;; 
            Rain rate: 0.0 mm/hr; 
-           Inside temperature: 22.2&#176;C
+           Inside temperature: 22.1&#176;C
          </description>
-         <pubDate>Wed, 31 Oct 2018 01:30:00 AWST</pubDate>
+         <pubDate>Wed, 31 Oct 2018 02:00:00 AWST</pubDate>
 	     <geo:lat>-33.7715848</geo:lat>
     	 <geo:long>122.79075622</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                31/10/18 01:30:00<br/>
-             Outside Temperature: 13.9&#176;C<br/>
-             Inside Temperature:  22.2&#176;C<br/>
-             Wind Chill:          13.9&#176;C<br/>
-             Heat Index:          13.9&#176;C<br/>
-             Dewpoint:            13.4&#176;C<br/>
+             Time:                31/10/18 02:00:00<br/>
+             Outside Temperature: 13.8&#176;C<br/>
+             Inside Temperature:  22.1&#176;C<br/>
+             Wind Chill:          13.8&#176;C<br/>
+             Heat Index:          13.8&#176;C<br/>
+             Dewpoint:            13.3&#176;C<br/>
              Humidity:            97%<br/>
-             Barometer:           1013.8 hPa<br/>
-             Wind:                11 km/h from 158&#176;<br/>
+             Barometer:           1013.0 hPa<br/>
+             Wind:                14 km/h from 170&#176;<br/>
              Rain Rate:           0.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 31/10/18 01:30:00</title>
+         <title>Daily Weather Summary as of 31/10/18 02:00:00</title>
          <link></link>
          <description>
-	        Min outside temperature: 13.9&#176;C at 01:30:00;
+	        Min outside temperature: 13.7&#176;C at 01:46:42;
          	Max outside temperature: 14.2&#176;C at 00:00:05;
-	        Min inside temperature:  22.2&#176;C at 00:55:51;
+	        Min inside temperature:  22.0&#176;C at 01:51:30;
 	        Max inside temperature:  22.3&#176;C at 00:00:05;
-	        Min barometer:           1013.2 hPa at 01:27:30;
+	        Min barometer:           1012.7 hPa at 01:54:15;
 	        Max barometer:           1015.5 hPa at 00:01:28;
-            Max wind :               19 km/h from 180&#176; at 01:11:44;
+            Max wind :               23 km/h from 180&#176; at 01:48:46;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Wed, 31 Oct 2018 01:30:00 AWST</pubDate>
+         <pubDate>Wed, 31 Oct 2018 02:00:00 AWST</pubDate>
 	     <geo:lat>-33.7715848</geo:lat>
     	 <geo:long>122.79075622</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     31 Oct 2018<br/>
-	         Min Outside Temperature: 13.9&#176;C at 01:30:00<br/>
+	         Min Outside Temperature: 13.7&#176;C at 01:46:42<br/>
 	         Max Outside Temperature: 14.2&#176;C at 00:00:05<br/>
-	         Min Inside Temperature:  22.2&#176;C at 00:55:51<br/>
+	         Min Inside Temperature:  22.0&#176;C at 01:51:30<br/>
 	         Max Inside Temperature:  22.3&#176;C at 00:00:05<br/>
-	         Min Barometer:           1013.2 hPa at 01:27:30<br/>
+	         Min Barometer:           1012.7 hPa at 01:54:15<br/>
 	         Max Barometer:           1015.5 hPa at 00:01:28<br/>
-             Max Wind :               19 km/h from 180&#176; at 01:11:44<br/>
+             Max Wind :               23 km/h from 180&#176; at 01:48:46<br/>
              Rain today:              0.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 31/10/18 01:30:00</title>
+         <title>Monthly Weather Summary as of 31/10/18 02:00:00</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 5.3&#176;C at 23/10/18 02:00:43;
@@ -87,7 +87,7 @@
             Max wind :               43 km/h from 45&#176; at 24/10/18 07:37:15;
             Rain total for month:    2.1 mm
          </description>
-         <pubDate>Wed, 31 Oct 2018 01:30:00 AWST</pubDate>
+         <pubDate>Wed, 31 Oct 2018 02:00:00 AWST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   October 2018<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 31/10/18 01:30:00</title>
+         <title>Yearly Weather Summary as of 31/10/18 02:00:00</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 5.3&#176;C at 23/10/18 02:00:43;
@@ -116,7 +116,7 @@
             Max wind :               43 km/h from 45&#176; at 24/10/18 07:37:15;
             Rain total for year:     2.1 mm
          </description>
-         <pubDate>Wed, 31 Oct 2018 01:30:00 AWST</pubDate>
+         <pubDate>Wed, 31 Oct 2018 02:00:00 AWST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2018<br/>
