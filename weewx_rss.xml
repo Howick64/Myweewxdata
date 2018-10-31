@@ -7,66 +7,66 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 01 Nov 2018 00:30:00 AWST</pubDate>
+      <pubDate>Thu, 01 Nov 2018 01:00:00 AWST</pubDate>
 
-      <lastBuildDate>Thu, 01 Nov 2018 00:30:00 AWST</lastBuildDate>
+      <lastBuildDate>Thu, 01 Nov 2018 01:00:00 AWST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.8.2</generator>
       <ttl>30.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 01/11/18 00:30:00</title>
+         <title>Weather Conditions at 01/11/18 01:00:00</title>
          <link></link>
          <description>
            Outside temperature: 15.2&#176;C; 
-           Barometer: 1008.8 hPa; 
-           Wind: 7 km/h from 169&#176;; 
+           Barometer: 1008.6 hPa; 
+           Wind: 6 km/h from 177&#176;; 
            Rain rate: 0.0 mm/hr; 
            Inside temperature: 22.8&#176;C
          </description>
-         <pubDate>Thu, 01 Nov 2018 00:30:00 AWST</pubDate>
+         <pubDate>Thu, 01 Nov 2018 01:00:00 AWST</pubDate>
 	     <geo:lat>-33.7715848</geo:lat>
     	 <geo:long>122.79075622</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                01/11/18 00:30:00<br/>
+             Time:                01/11/18 01:00:00<br/>
              Outside Temperature: 15.2&#176;C<br/>
              Inside Temperature:  22.8&#176;C<br/>
              Wind Chill:          15.2&#176;C<br/>
              Heat Index:          15.2&#176;C<br/>
-             Dewpoint:            14.6&#176;C<br/>
-             Humidity:            96%<br/>
-             Barometer:           1008.8 hPa<br/>
-             Wind:                7 km/h from 169&#176;<br/>
+             Dewpoint:            14.7&#176;C<br/>
+             Humidity:            97%<br/>
+             Barometer:           1008.6 hPa<br/>
+             Wind:                6 km/h from 177&#176;<br/>
              Rain Rate:           0.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 01/11/18 00:30:00</title>
+         <title>Daily Weather Summary as of 01/11/18 01:00:00</title>
          <link></link>
          <description>
-	        Min outside temperature: 15.2&#176;C at 00:00:28;
+	        Min outside temperature: 15.2&#176;C at 01:00:00;
          	Max outside temperature: 15.2&#176;C at 00:00:28;
 	        Min inside temperature:  22.7&#176;C at 00:00:28;
 	        Max inside temperature:  22.9&#176;C at 00:27:56;
-	        Min barometer:           1008.5 hPa at 00:30:00;
+	        Min barometer:           1008.4 hPa at 00:33:26;
 	        Max barometer:           1009.1 hPa at 00:04:37;
             Max wind :               16 km/h from 158&#176; at 00:23:08;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Thu, 01 Nov 2018 00:30:00 AWST</pubDate>
+         <pubDate>Thu, 01 Nov 2018 01:00:00 AWST</pubDate>
 	     <geo:lat>-33.7715848</geo:lat>
     	 <geo:long>122.79075622</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     01 Nov 2018<br/>
-	         Min Outside Temperature: 15.2&#176;C at 00:00:28<br/>
+	         Min Outside Temperature: 15.2&#176;C at 01:00:00<br/>
 	         Max Outside Temperature: 15.2&#176;C at 00:00:28<br/>
 	         Min Inside Temperature:  22.7&#176;C at 00:00:28<br/>
 	         Max Inside Temperature:  22.9&#176;C at 00:27:56<br/>
-	         Min Barometer:           1008.5 hPa at 00:30:00<br/>
+	         Min Barometer:           1008.4 hPa at 00:33:26<br/>
 	         Max Barometer:           1009.1 hPa at 00:04:37<br/>
              Max Wind :               16 km/h from 158&#176; at 00:23:08<br/>
              Rain today:              0.0 mm<br/>
@@ -75,27 +75,27 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 01/11/18 00:30:00</title>
+         <title>Monthly Weather Summary as of 01/11/18 01:00:00</title>
          <link>/month.html</link>
          <description>
-	        Min outside temperature: 15.2&#176;C at 01/11/18 00:00:28;
+	        Min outside temperature: 15.2&#176;C at 01/11/18 01:00:00;
          	Max outside temperature: 15.2&#176;C at 01/11/18 00:00:28;
 	        Min inside temperature:  22.7&#176;C at 01/11/18 00:00:28;
 	        Max inside temperature:  22.9&#176;C at 01/11/18 00:27:56;
-	        Min barometer:           1008.5 hPa at 01/11/18 00:30:00;
+	        Min barometer:           1008.4 hPa at 01/11/18 00:33:26;
 	        Max barometer:           1009.1 hPa at 01/11/18 00:04:37;
             Max wind :               16 km/h from 158&#176; at 01/11/18 00:23:08;
             Rain total for month:    0.0 mm
          </description>
-         <pubDate>Thu, 01 Nov 2018 00:30:00 AWST</pubDate>
+         <pubDate>Thu, 01 Nov 2018 01:00:00 AWST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   November 2018<br/>
 	         Max Outside Temperature: 15.2&#176;C at 01/11/18 00:00:28<br/>
-	         Min Outside Temperature: 15.2&#176;C at 01/11/18 00:00:28<br/>
+	         Min Outside Temperature: 15.2&#176;C at 01/11/18 01:00:00<br/>
 	         Max Inside Temperature:  22.9&#176;C at 01/11/18 00:27:56<br/>
 	         Min Inside Temperature:  22.7&#176;C at 01/11/18 00:00:28<br/>
-	         Min Barometer:           1008.5 hPa at 01/11/18 00:30:00<br/>
+	         Min Barometer:           1008.4 hPa at 01/11/18 00:33:26<br/>
 	         Max Barometer:           1009.1 hPa at 01/11/18 00:04:37<br/>
              Max Wind :               16 km/h from 158&#176; at 01/11/18 00:23:08<br/>
              Rain total for month:    0.0 mm<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 01/11/18 00:30:00</title>
+         <title>Yearly Weather Summary as of 01/11/18 01:00:00</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 5.3&#176;C at 23/10/18 02:00:43;
@@ -116,7 +116,7 @@
             Max wind :               43 km/h from 45&#176; at 24/10/18 07:37:15;
             Rain total for year:     4.2 mm
          </description>
-         <pubDate>Thu, 01 Nov 2018 00:30:00 AWST</pubDate>
+         <pubDate>Thu, 01 Nov 2018 01:00:00 AWST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2018<br/>
